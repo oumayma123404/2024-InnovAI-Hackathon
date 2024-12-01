@@ -76,10 +76,4 @@ Water scarcity 🌍 and inefficient water management  are growing concerns, espe
 DEMO:
 PITCH:
 
----
-
-
-
----
-
-This README provides a clear overview of the project, its impact, and the technologies behind it, with emojis added to make the document more engaging and visually appealing!
+-
